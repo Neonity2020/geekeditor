@@ -1,1 +1,1 @@
-{"content":[{"key":"paragraph","data":{"content":"```pnpm create t3-app@latest`"},"common":{"quote":false}}],"typeset":"basic","layout":"web","basic":{"title":"","cover":"","summary":""}}
+{"content":[{"key":"paragraph","data":{"content":"```bash"},"common":{"quote":false}},{"key":"paragraph","data":{"content":"pnpm create t3-app@latest"},"common":{}}],"typeset":"basic","layout":"web","basic":{"title":"","cover":"","summary":""}}
